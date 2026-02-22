@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Yogasara+%F0%9F%91%8B;Backend-Focused+Fullstack+Engineer;Building+Scalable+SaaS+Systems;Golang+%7C+TypeScript+%7C+PostgreSQL+%7C+Redis" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yogasara+%F0%9F%91%8B;Backend-Focused+Fullstack+Engineer;Building+Scalable+SaaS+Systems;Go+%7C+TypeScript+%7C+NestJS+%7C+PostgreSQL+%7C+Redis" />
 </p>
 
 <!-- Profile Views -->
@@ -10,7 +10,7 @@
 
 <!-- Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" style="border-radius:10px;" />
 </p>
 
 ---
@@ -20,11 +20,12 @@
 Backend-focused fullstack engineer with 5+ years of experience building production-grade SaaS and enterprise systems.
 
 I specialize in:
-- Designing scalable REST APIs
-- Microservices architecture
-- Database performance optimization
-- Redis caching strategies
-- Shipping clean, maintainable, and reliable systems
+
+- Designing scalable REST APIs  
+- Microservices architecture  
+- Database performance optimization  
+- Redis caching strategies  
+- Shipping clean, maintainable, and reliable systems  
 
 I thrive in remote, async-first teams where ownership and engineering quality matter.
 
@@ -36,17 +37,26 @@ I thrive in remote, async-first teams where ownership and engineering quality ma
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### ⚙ Backend & Architecture
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-green?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
+---
+
+### ⚙ Frameworks
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React_Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
 
 ### 🗄 Database & Cache
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
 
 ### 🚀 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -58,43 +68,47 @@ I thrive in remote, async-first teams where ownership and engineering quality ma
 
 ## 🔥 Engineering Focus
 
-- Clean architecture & domain-driven design
-- Production reliability & observability
-- Performance optimization (DB indexing, caching)
-- Async processing & event-driven systems
-- Shipping end-to-end product features
-- Writing maintainable & testable code
+- Clean architecture & domain-driven design  
+- Production reliability & observability  
+- Performance optimization (DB indexing, caching)  
+- Async processing & event-driven systems  
+- End-to-end product ownership  
+- Writing maintainable & testable code  
 
 ---
 
 ## 📦 Selected Product Experience
 
-### Trade Invest Center
-SaaS Investment and Trading Platform
-Stack: NestJS, TypeScript, Next.js, PostgreSQL, Redis
-- Designed and implemented scalable backend services using NestJS with modular and maintainable architecture
-- Developed responsive frontend interfaces using Next.js for real-time trading and investment workflows
-- Architected secure authentication and role-based access control for different user types
-- Optimized API performance through database indexing and Redis caching strategies
-- Ensured production reliability through structured error handling, logging, and performance monitoring
-- Collaborated with stakeholders to translate business investment logic into scalable system workflows  
+### 🚀 Trade Invest Center  
+SaaS Investment and Trading Platform  
+**Stack:** NestJS, TypeScript, Next.js, PostgreSQL, Redis  
 
-### Festival E-Ticket Platform
-SaaS ticketing system  
+- Designed and implemented scalable backend services using modular NestJS architecture  
+- Developed responsive frontend interfaces with Next.js for real-time trading workflows  
+- Architected secure authentication and role-based access control  
+- Optimized API performance using database indexing and Redis caching  
+- Ensured production reliability through structured logging and monitoring  
+
+---
+
+### 🎟 Festival E-Ticket Platform  
+SaaS Ticketing System  
 **Stack:** Golang, MongoDB, Redis  
-- Built secure purchase workflows  
-- Designed scalable API architecture  
 
-### Mahirku – AI Talent Assessment Platform
-Assessment SaaS platform  
-Stack: Express.js, TypeScript, React.js, React Native, PostgreSQL, Redis
-- Architected and developed the platform end-to-end, covering backend APIs, web application, and mobile application
-- Designed and implemented a scalable scoring engine for cognitive and personality assessments
-- Built modular backend services using structured service layers to ensure maintainability and long-term scalability
-- Developed responsive web interfaces (React.js) and cross-platform mobile applications (React Native)
-- Implemented authentication, secure token handling, and role-based access control
-- Optimized performance using PostgreSQL query tuning and Redis caching strategies
-- Designed the system to support multi-user assessments and scalable growth 
+- Designed and implemented secure ticket purchasing and validation workflows  
+- Architected scalable backend services to handle concurrent event transactions  
+
+---
+
+### 🧠 Mahirku – AI Talent Assessment Platform  
+SaaS-Based Assessment Platform  
+**Stack:** Express.js, TypeScript, React.js, React Native, PostgreSQL, Redis  
+
+- Architected and developed the platform end-to-end (backend, web, and mobile)  
+- Designed scalable scoring engine for cognitive and personality assessments  
+- Built modular backend service layers for maintainability  
+- Implemented authentication and secure token handling  
+- Optimized performance through PostgreSQL tuning and Redis caching  
 
 ---
 
