@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 Backend-focused fullstack engineer with 5+ years of experience building production-grade SaaS and enterprise systems.
 
@@ -115,15 +115,7 @@ SaaS-Based Assessment Platform
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogasara22&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogasara22&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogasara22&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yogasara22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ---
