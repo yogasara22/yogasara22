@@ -93,7 +93,7 @@ SaaS Investment and Trading Platform
 
 ### 🎟 Festival E-Ticket Platform  
 SaaS Ticketing System  
-**Stack:** Golang, MongoDB, Redis  
+**Stack:** NestJs, Next.js, PostgreSQL, Redis
 
 - Designed and implemented secure ticket purchasing and validation workflows  
 - Architected scalable backend services to handle concurrent event transactions  
